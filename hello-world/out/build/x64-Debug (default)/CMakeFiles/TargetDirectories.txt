@@ -1,0 +1,4 @@
+C:/Users/anacl/Exercism/cpp/hello-world/out/build/x64-Debug (default)/CMakeFiles/hello-world.dir
+C:/Users/anacl/Exercism/cpp/hello-world/out/build/x64-Debug (default)/CMakeFiles/test_hello-world.dir
+C:/Users/anacl/Exercism/cpp/hello-world/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/anacl/Exercism/cpp/hello-world/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
